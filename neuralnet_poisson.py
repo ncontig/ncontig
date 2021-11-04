@@ -1,3 +1,4 @@
+### Neural network to solve poisson equation
 import autograd.numpy as np
 from autograd import elementwise_grad as grad
 from scipy.optimize import minimize
