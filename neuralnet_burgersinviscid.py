@@ -1,3 +1,5 @@
+### Neural network to solve inviscid Burgers equation
+
 import autograd.numpy as np
 from autograd import elementwise_grad as grad
 from scipy.optimize import minimize
